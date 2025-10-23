@@ -139,6 +139,16 @@ int main(int argc , char *argv[]) {
     close(sock);
     return 0;
 }
+```
 
-## 🎯 RESULT
+<img width="1470" height="821" alt="image" src="https://github.com/user-attachments/assets/549f966d-c623-4dfc-839d-3d92f7c5fa91" />
+
+
+<img width="1471" height="824" alt="image" src="https://github.com/user-attachments/assets/d58d6196-bcf4-4712-a83d-3df250bcc18f" />
+
+
+
+##🎯 RESULT
+
+
 Thus, a socket program was successfully written to transfer data between client and server, and its performance was studied.
